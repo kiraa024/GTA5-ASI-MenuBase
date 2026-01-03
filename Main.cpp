@@ -1,3 +1,7 @@
+// GTA5-ASI-MenuBase
+// © 2026 kiraa024
+// MIT License
+
 #include <Windows.h>
 #include <d3d11.h>
 #include "MinHook/MinHook.h"
