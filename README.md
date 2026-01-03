@@ -1,4 +1,4 @@
-# GTA5-ASI-MenuBase-DX11 (GTA V Legacy)
+# GTA5-ASI-MenuBase-DX11 (Legacy)
 
 > **IMPORTANT:** After building, rename the compiled DLL to `.asi`  
 > Example: `GTA5-ASI-MenuBase.asi`  
