@@ -72,5 +72,7 @@ Fork it, modify it, and submit pull requests.
 
 ## License
 
-MIT License  
-Use it, modify it, and share it freely.
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project,  
+**as long as credit is given to the original author**.
