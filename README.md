@@ -1,6 +1,6 @@
 # GTA5-ASI-MenuBase-DX11 (Legacy)
 
-> **IMPORTANT:** After building, rename the compiled DLL to `.asi`  
+> **IMPORTANT:** After building, rename the compiled DLL to `.asi` (Natives.h is outdated. you will have to update it yourself.)
 > Example: `GTA5-ASI-MenuBase.asi`  
 > Place it in your GTA V root directory.
 
